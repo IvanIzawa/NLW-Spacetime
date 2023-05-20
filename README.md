@@ -8,9 +8,9 @@ That is a responsive web project is a Time Capsule, this is showing memories in 
 ## Technologies
 That project was developed during the NLW event of Rocketseat with the followig technologies:
 
--CSS
--Git and Github
--HTML
+- CSS
+- Git and Github
+- HTML
 
 ## Layout
 You can see the project layout in [this link](https://www.figma.com/file/sm2qplLw1HWBVT5VyqY5tJ/C%C3%A1psula-do-tempo-%E2%80%A2-Trilha-Explorer-(Community)?type=design&t=7721APCJEd6Gz0pI-1)
